@@ -1,3 +1,3 @@
 # eleicoes-twitters
 Trabalho final disciplina sistemas especialistas: mineração de twitters das eleições para analise sentimentos.
-[Contribution guidelines for this project](Relatorio.pdf)
+[Contribution guidelines for this project](Relatório.pdf)
