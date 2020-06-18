@@ -46,11 +46,11 @@ from geopy.geocoders import Nominatim
 
 
 #Keys for autentication
-consumer_key='Pl4AzCjWqxtu49moOM6fbiY6w'
-consumer_secret='NkE1jTLOIux5M9SmfZ1l0IvIiATOQALnhyb1waKyecWk2xtJGR'
+consumer_key='XXXXXXXXXXXXXXXXXXXX'
+consumer_secret='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
-access_token='1036744604576636929-L6sPRS1vR705PKUpqV0gDrvfAybP7M'
-access_token_secret='hKfheORbmZ4NOnSbtSsrIl6aTeocIvUOlqRamT85hDgNa'
+access_token='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
+access_token_secret='XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 
 
 # ### Twitter Autentication
